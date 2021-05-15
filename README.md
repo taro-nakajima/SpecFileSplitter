@@ -3,4 +3,4 @@
 Python 3 is required.
 
 ## usage
-'python SpecFileSplitter (datafilename)'
+`python SpecFileSplitter (datafilename)`
