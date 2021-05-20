@@ -17,7 +17,7 @@ else:
 filenum=0
 writeflag=0
 for line in FH:
-	if ('#L' in line):
+	if ('#S' in line):
 		filenum+=1
 	elif('#L' in line):
 		fn_str=str(filenum).zfill(digits)
